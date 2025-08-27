@@ -1,0 +1,86 @@
+[
+    {
+        "merged": "com.brother.ptouch.sdk.printdemo.app-mergeDebugResources-47:/layout/item_simple_string.xml",
+        "source": "com.brother.ptouch.sdk.printdemo.app-main-50:/layout/item_simple_string.xml"
+    },
+    {
+        "merged": "com.brother.ptouch.sdk.printdemo.app-mergeDebugResources-47:/layout/fragment_printer_config_list.xml",
+        "source": "com.brother.ptouch.sdk.printdemo.app-main-50:/layout/fragment_printer_config_list.xml"
+    },
+    {
+        "merged": "com.brother.ptouch.sdk.printdemo.app-mergeDebugResources-47:/layout/fragment_select_enum.xml",
+        "source": "com.brother.ptouch.sdk.printdemo.app-main-50:/layout/fragment_select_enum.xml"
+    },
+    {
+        "merged": "com.brother.ptouch.sdk.printdemo.app-mergeDebugResources-47:/layout/fragment_about.xml",
+        "source": "com.brother.ptouch.sdk.printdemo.app-main-50:/layout/fragment_about.xml"
+    },
+    {
+        "merged": "com.brother.ptouch.sdk.printdemo.app-mergeDebugResources-47:/layout/fragment_input_int_list.xml",
+        "source": "com.brother.ptouch.sdk.printdemo.app-main-50:/layout/fragment_input_int_list.xml"
+    },
+    {
+        "merged": "com.brother.ptouch.sdk.printdemo.app-mergeDebugResources-47:/layout/fragment_base_list.xml",
+        "source": "com.brother.ptouch.sdk.printdemo.app-main-50:/layout/fragment_base_list.xml"
+    },
+    {
+        "merged": "com.brother.ptouch.sdk.printdemo.app-mergeDebugResources-47:/layout/fragment_print_settings.xml",
+        "source": "com.brother.ptouch.sdk.printdemo.app-main-50:/layout/fragment_print_settings.xml"
+    },
+    {
+        "merged": "com.brother.ptouch.sdk.printdemo.app-mergeDebugResources-47:/layout/fragment_main.xml",
+        "source": "com.brother.ptouch.sdk.printdemo.app-main-50:/layout/fragment_main.xml"
+    },
+    {
+        "merged": "com.brother.ptouch.sdk.printdemo.app-mergeDebugResources-47:/layout/item_recycler_category.xml",
+        "source": "com.brother.ptouch.sdk.printdemo.app-main-50:/layout/item_recycler_category.xml"
+    },
+    {
+        "merged": "com.brother.ptouch.sdk.printdemo.app-mergeDebugResources-47:/layout/fragment_input_int.xml",
+        "source": "com.brother.ptouch.sdk.printdemo.app-main-50:/layout/fragment_input_int.xml"
+    },
+    {
+        "merged": "com.brother.ptouch.sdk.printdemo.app-mergeDebugResources-47:/layout/fragment_edit_template.xml",
+        "source": "com.brother.ptouch.sdk.printdemo.app-main-50:/layout/fragment_edit_template.xml"
+    },
+    {
+        "merged": "com.brother.ptouch.sdk.printdemo.app-mergeDebugResources-47:/layout/fragment_printer_set_config.xml",
+        "source": "com.brother.ptouch.sdk.printdemo.app-main-50:/layout/fragment_printer_set_config.xml"
+    },
+    {
+        "merged": "com.brother.ptouch.sdk.printdemo.app-mergeDebugResources-47:/layout/item_recycler_item.xml",
+        "source": "com.brother.ptouch.sdk.printdemo.app-main-50:/layout/item_recycler_item.xml"
+    },
+    {
+        "merged": "com.brother.ptouch.sdk.printdemo.app-mergeDebugResources-47:/layout/fragment_printer_list.xml",
+        "source": "com.brother.ptouch.sdk.printdemo.app-main-50:/layout/fragment_printer_list.xml"
+    },
+    {
+        "merged": "com.brother.ptouch.sdk.printdemo.app-mergeDebugResources-47:/layout/item_title_with_message.xml",
+        "source": "com.brother.ptouch.sdk.printdemo.app-main-50:/layout/item_title_with_message.xml"
+    },
+    {
+        "merged": "com.brother.ptouch.sdk.printdemo.app-mergeDebugResources-47:/layout/item_printer_list.xml",
+        "source": "com.brother.ptouch.sdk.printdemo.app-main-50:/layout/item_printer_list.xml"
+    },
+    {
+        "merged": "com.brother.ptouch.sdk.printdemo.app-mergeDebugResources-47:/layout/fragment_template_print_settings.xml",
+        "source": "com.brother.ptouch.sdk.printdemo.app-main-50:/layout/fragment_template_print_settings.xml"
+    },
+    {
+        "merged": "com.brother.ptouch.sdk.printdemo.app-mergeDebugResources-47:/layout/fragment_select_printer_interface.xml",
+        "source": "com.brother.ptouch.sdk.printdemo.app-main-50:/layout/fragment_select_printer_interface.xml"
+    },
+    {
+        "merged": "com.brother.ptouch.sdk.printdemo.app-mergeDebugResources-47:/layout/fragment_list_with_search.xml",
+        "source": "com.brother.ptouch.sdk.printdemo.app-main-50:/layout/fragment_list_with_search.xml"
+    },
+    {
+        "merged": "com.brother.ptouch.sdk.printdemo.app-mergeDebugResources-47:/layout/item_recycler_config_item.xml",
+        "source": "com.brother.ptouch.sdk.printdemo.app-main-50:/layout/item_recycler_config_item.xml"
+    },
+    {
+        "merged": "com.brother.ptouch.sdk.printdemo.app-mergeDebugResources-47:/layout/fragment_show_result.xml",
+        "source": "com.brother.ptouch.sdk.printdemo.app-main-50:/layout/fragment_show_result.xml"
+    }
+]

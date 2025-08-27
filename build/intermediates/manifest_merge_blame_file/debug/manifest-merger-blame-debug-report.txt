@@ -1,0 +1,121 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.brother.ptouch.sdk.printdemo"
+4    android:versionCode="576"
+5    android:versionName="4.12.1" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="26"
+8-->/Users/miraclehwan/Downloads/bpsdkaall4121 2/bpsdka4121/Samples/Print-SDK-Demo-Android/app/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="34" />
+9-->/Users/miraclehwan/Downloads/bpsdkaall4121 2/bpsdka4121/Samples/Print-SDK-Demo-Android/app/src/main/AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+11-->/Users/miraclehwan/Downloads/bpsdkaall4121 2/bpsdka4121/Samples/Print-SDK-Demo-Android/app/src/main/AndroidManifest.xml:5:5-79
+11-->/Users/miraclehwan/Downloads/bpsdkaall4121 2/bpsdka4121/Samples/Print-SDK-Demo-Android/app/src/main/AndroidManifest.xml:5:22-76
+12    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+12-->/Users/miraclehwan/Downloads/bpsdkaall4121 2/bpsdka4121/Samples/Print-SDK-Demo-Android/app/src/main/AndroidManifest.xml:6:5-76
+12-->/Users/miraclehwan/Downloads/bpsdkaall4121 2/bpsdka4121/Samples/Print-SDK-Demo-Android/app/src/main/AndroidManifest.xml:6:22-73
+13    <uses-permission android:name="android.permission.INTERNET" />
+13-->/Users/miraclehwan/Downloads/bpsdkaall4121 2/bpsdka4121/Samples/Print-SDK-Demo-Android/app/src/main/AndroidManifest.xml:7:5-67
+13-->/Users/miraclehwan/Downloads/bpsdkaall4121 2/bpsdka4121/Samples/Print-SDK-Demo-Android/app/src/main/AndroidManifest.xml:7:22-64
+14    <uses-permission android:name="android.permission.BLUETOOTH" />
+14-->/Users/miraclehwan/Downloads/bpsdkaall4121 2/bpsdka4121/Samples/Print-SDK-Demo-Android/app/src/main/AndroidManifest.xml:8:5-68
+14-->/Users/miraclehwan/Downloads/bpsdkaall4121 2/bpsdka4121/Samples/Print-SDK-Demo-Android/app/src/main/AndroidManifest.xml:8:22-65
+15    <uses-permission android:name="android.permission.BLUETOOTH_CONNECT" />
+15-->/Users/miraclehwan/Downloads/bpsdkaall4121 2/bpsdka4121/Samples/Print-SDK-Demo-Android/app/src/main/AndroidManifest.xml:9:5-76
+15-->/Users/miraclehwan/Downloads/bpsdkaall4121 2/bpsdka4121/Samples/Print-SDK-Demo-Android/app/src/main/AndroidManifest.xml:9:22-73
+16    <uses-permission android:name="android.permission.BLUETOOTH_ADMIN" />
+16-->/Users/miraclehwan/Downloads/bpsdkaall4121 2/bpsdka4121/Samples/Print-SDK-Demo-Android/app/src/main/AndroidManifest.xml:11:5-74
+16-->/Users/miraclehwan/Downloads/bpsdkaall4121 2/bpsdka4121/Samples/Print-SDK-Demo-Android/app/src/main/AndroidManifest.xml:11:22-71
+17    <uses-permission
+17-->/Users/miraclehwan/Downloads/bpsdkaall4121 2/bpsdka4121/Samples/Print-SDK-Demo-Android/app/src/main/AndroidManifest.xml:13:5-16:31
+18        android:name="android.permission.BLUETOOTH_SCAN"
+18-->/Users/miraclehwan/Downloads/bpsdkaall4121 2/bpsdka4121/Samples/Print-SDK-Demo-Android/app/src/main/AndroidManifest.xml:14:9-57
+19        android:usesPermissionFlags="neverForLocation" />
+19-->/Users/miraclehwan/Downloads/bpsdkaall4121 2/bpsdka4121/Samples/Print-SDK-Demo-Android/app/src/main/AndroidManifest.xml:15:9-55
+20    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+20-->/Users/miraclehwan/Downloads/bpsdkaall4121 2/bpsdka4121/Samples/Print-SDK-Demo-Android/app/src/main/AndroidManifest.xml:18:5-81
+20-->/Users/miraclehwan/Downloads/bpsdkaall4121 2/bpsdka4121/Samples/Print-SDK-Demo-Android/app/src/main/AndroidManifest.xml:18:22-78
+21    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+21-->/Users/miraclehwan/Downloads/bpsdkaall4121 2/bpsdka4121/Samples/Print-SDK-Demo-Android/app/src/main/AndroidManifest.xml:19:5-79
+21-->/Users/miraclehwan/Downloads/bpsdkaall4121 2/bpsdka4121/Samples/Print-SDK-Demo-Android/app/src/main/AndroidManifest.xml:19:22-76
+22
+23    <application
+23-->/Users/miraclehwan/Downloads/bpsdkaall4121 2/bpsdka4121/Samples/Print-SDK-Demo-Android/app/src/main/AndroidManifest.xml:21:5-39:19
+24        android:name="com.brother.ptouch.sdk.printdemo.PrintDemoApp"
+24-->/Users/miraclehwan/Downloads/bpsdkaall4121 2/bpsdka4121/Samples/Print-SDK-Demo-Android/app/src/main/AndroidManifest.xml:22:9-37
+25        android:allowBackup="true"
+25-->/Users/miraclehwan/Downloads/bpsdkaall4121 2/bpsdka4121/Samples/Print-SDK-Demo-Android/app/src/main/AndroidManifest.xml:23:9-35
+26        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+26-->[androidx.core:core:1.7.0] /Users/miraclehwan/.gradle/caches/transforms-3/c4bcdc93f4e49101b9081deb869fce68/transformed/core-1.7.0/AndroidManifest.xml:24:18-86
+27        android:debuggable="true"
+28        android:extractNativeLibs="false"
+29        android:icon="@mipmap/ic_launcher"
+29-->/Users/miraclehwan/Downloads/bpsdkaall4121 2/bpsdka4121/Samples/Print-SDK-Demo-Android/app/src/main/AndroidManifest.xml:24:9-43
+30        android:label="@string/app_name"
+30-->/Users/miraclehwan/Downloads/bpsdkaall4121 2/bpsdka4121/Samples/Print-SDK-Demo-Android/app/src/main/AndroidManifest.xml:25:9-41
+31        android:roundIcon="@mipmap/ic_launcher_round"
+31-->/Users/miraclehwan/Downloads/bpsdkaall4121 2/bpsdka4121/Samples/Print-SDK-Demo-Android/app/src/main/AndroidManifest.xml:26:9-54
+32        android:supportsRtl="true"
+32-->/Users/miraclehwan/Downloads/bpsdkaall4121 2/bpsdka4121/Samples/Print-SDK-Demo-Android/app/src/main/AndroidManifest.xml:27:9-35
+33        android:testOnly="true"
+34        android:theme="@style/AppTheme.NoActionbar.Main" >
+34-->/Users/miraclehwan/Downloads/bpsdkaall4121 2/bpsdka4121/Samples/Print-SDK-Demo-Android/app/src/main/AndroidManifest.xml:28:9-57
+35        <activity
+35-->/Users/miraclehwan/Downloads/bpsdkaall4121 2/bpsdka4121/Samples/Print-SDK-Demo-Android/app/src/main/AndroidManifest.xml:29:9-38:20
+36            android:name="com.brother.ptouch.sdk.printdemo.ui.MainActivity"
+36-->/Users/miraclehwan/Downloads/bpsdkaall4121 2/bpsdka4121/Samples/Print-SDK-Demo-Android/app/src/main/AndroidManifest.xml:30:13-44
+37            android:exported="true"
+37-->/Users/miraclehwan/Downloads/bpsdkaall4121 2/bpsdka4121/Samples/Print-SDK-Demo-Android/app/src/main/AndroidManifest.xml:31:13-36
+38            android:screenOrientation="portrait" >
+38-->/Users/miraclehwan/Downloads/bpsdkaall4121 2/bpsdka4121/Samples/Print-SDK-Demo-Android/app/src/main/AndroidManifest.xml:32:13-49
+39            <intent-filter>
+39-->/Users/miraclehwan/Downloads/bpsdkaall4121 2/bpsdka4121/Samples/Print-SDK-Demo-Android/app/src/main/AndroidManifest.xml:34:13-37:29
+40                <action android:name="android.intent.action.MAIN" />
+40-->/Users/miraclehwan/Downloads/bpsdkaall4121 2/bpsdka4121/Samples/Print-SDK-Demo-Android/app/src/main/AndroidManifest.xml:35:17-69
+40-->/Users/miraclehwan/Downloads/bpsdkaall4121 2/bpsdka4121/Samples/Print-SDK-Demo-Android/app/src/main/AndroidManifest.xml:35:25-66
+41
+42                <category android:name="android.intent.category.LAUNCHER" />
+42-->/Users/miraclehwan/Downloads/bpsdkaall4121 2/bpsdka4121/Samples/Print-SDK-Demo-Android/app/src/main/AndroidManifest.xml:36:17-77
+42-->/Users/miraclehwan/Downloads/bpsdkaall4121 2/bpsdka4121/Samples/Print-SDK-Demo-Android/app/src/main/AndroidManifest.xml:36:27-74
+43            </intent-filter>
+44        </activity>
+45
+46        <uses-library
+46-->[androidx.window:window:1.0.0] /Users/miraclehwan/.gradle/caches/transforms-3/933e1c47c3e019476c98bbe7f252019c/transformed/window-1.0.0/AndroidManifest.xml:25:9-27:40
+47            android:name="androidx.window.extensions"
+47-->[androidx.window:window:1.0.0] /Users/miraclehwan/.gradle/caches/transforms-3/933e1c47c3e019476c98bbe7f252019c/transformed/window-1.0.0/AndroidManifest.xml:26:13-54
+48            android:required="false" />
+48-->[androidx.window:window:1.0.0] /Users/miraclehwan/.gradle/caches/transforms-3/933e1c47c3e019476c98bbe7f252019c/transformed/window-1.0.0/AndroidManifest.xml:27:13-37
+49        <uses-library
+49-->[androidx.window:window:1.0.0] /Users/miraclehwan/.gradle/caches/transforms-3/933e1c47c3e019476c98bbe7f252019c/transformed/window-1.0.0/AndroidManifest.xml:28:9-30:40
+50            android:name="androidx.window.sidecar"
+50-->[androidx.window:window:1.0.0] /Users/miraclehwan/.gradle/caches/transforms-3/933e1c47c3e019476c98bbe7f252019c/transformed/window-1.0.0/AndroidManifest.xml:29:13-51
+51            android:required="false" />
+51-->[androidx.window:window:1.0.0] /Users/miraclehwan/.gradle/caches/transforms-3/933e1c47c3e019476c98bbe7f252019c/transformed/window-1.0.0/AndroidManifest.xml:30:13-37
+52
+53        <provider
+53-->[androidx.emoji2:emoji2:1.0.0] /Users/miraclehwan/.gradle/caches/transforms-3/0112e506e9a750e5766b4006913da71c/transformed/emoji2-1.0.0/AndroidManifest.xml:26:9-34:20
+54            android:name="androidx.startup.InitializationProvider"
+54-->[androidx.emoji2:emoji2:1.0.0] /Users/miraclehwan/.gradle/caches/transforms-3/0112e506e9a750e5766b4006913da71c/transformed/emoji2-1.0.0/AndroidManifest.xml:27:13-67
+55            android:authorities="com.brother.ptouch.sdk.printdemo.androidx-startup"
+55-->[androidx.emoji2:emoji2:1.0.0] /Users/miraclehwan/.gradle/caches/transforms-3/0112e506e9a750e5766b4006913da71c/transformed/emoji2-1.0.0/AndroidManifest.xml:28:13-68
+56            android:exported="false" >
+56-->[androidx.emoji2:emoji2:1.0.0] /Users/miraclehwan/.gradle/caches/transforms-3/0112e506e9a750e5766b4006913da71c/transformed/emoji2-1.0.0/AndroidManifest.xml:29:13-37
+57            <meta-data
+57-->[androidx.emoji2:emoji2:1.0.0] /Users/miraclehwan/.gradle/caches/transforms-3/0112e506e9a750e5766b4006913da71c/transformed/emoji2-1.0.0/AndroidManifest.xml:31:13-33:52
+58                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+58-->[androidx.emoji2:emoji2:1.0.0] /Users/miraclehwan/.gradle/caches/transforms-3/0112e506e9a750e5766b4006913da71c/transformed/emoji2-1.0.0/AndroidManifest.xml:32:17-75
+59                android:value="androidx.startup" />
+59-->[androidx.emoji2:emoji2:1.0.0] /Users/miraclehwan/.gradle/caches/transforms-3/0112e506e9a750e5766b4006913da71c/transformed/emoji2-1.0.0/AndroidManifest.xml:33:17-49
+60            <meta-data
+60-->[androidx.lifecycle:lifecycle-process:2.4.0] /Users/miraclehwan/.gradle/caches/transforms-3/e3a3cf9e3b16d8e9a9f44e7cbda2c31b/transformed/lifecycle-process-2.4.0/AndroidManifest.xml:31:13-33:52
+61                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+61-->[androidx.lifecycle:lifecycle-process:2.4.0] /Users/miraclehwan/.gradle/caches/transforms-3/e3a3cf9e3b16d8e9a9f44e7cbda2c31b/transformed/lifecycle-process-2.4.0/AndroidManifest.xml:32:17-78
+62                android:value="androidx.startup" />
+62-->[androidx.lifecycle:lifecycle-process:2.4.0] /Users/miraclehwan/.gradle/caches/transforms-3/e3a3cf9e3b16d8e9a9f44e7cbda2c31b/transformed/lifecycle-process-2.4.0/AndroidManifest.xml:33:17-49
+63        </provider>
+64    </application>
+65
+66</manifest>

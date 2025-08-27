@@ -1,0 +1,363 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/miraclehwan/Downloads/bpsdkaall4121 2/bpsdka4121/Samples/Print-SDK-Demo-Android/app/src/main/AndroidManifest.xml:2:1-41:12
+INJECTED from /Users/miraclehwan/Downloads/bpsdkaall4121 2/bpsdka4121/Samples/Print-SDK-Demo-Android/app/src/main/AndroidManifest.xml:2:1-41:12
+INJECTED from /Users/miraclehwan/Downloads/bpsdkaall4121 2/bpsdka4121/Samples/Print-SDK-Demo-Android/app/src/main/AndroidManifest.xml:2:1-41:12
+INJECTED from /Users/miraclehwan/Downloads/bpsdkaall4121 2/bpsdka4121/Samples/Print-SDK-Demo-Android/app/src/main/AndroidManifest.xml:2:1-41:12
+MERGED from [BrotherPrintLibrary.aar] /Users/miraclehwan/.gradle/caches/transforms-3/3098f64f7d01c438ff108e5252a64fcf/transformed/BrotherPrintLibrary/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.databinding:databinding-adapters:7.3.1] /Users/miraclehwan/.gradle/caches/transforms-3/a0aca002b278312288e5a454417e2cd5/transformed/databinding-adapters-7.3.1/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.databinding:databinding-ktx:7.3.1] /Users/miraclehwan/.gradle/caches/transforms-3/e1922c384ccdc7e43ddd1b2f567258c8/transformed/databinding-ktx-7.3.1/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.databinding:databinding-runtime:7.3.1] /Users/miraclehwan/.gradle/caches/transforms-3/0df34f840a53b1811dc1c74c12a315cc/transformed/databinding-runtime-7.3.1/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.4.1] /Users/miraclehwan/.gradle/caches/transforms-3/c641f767f07e4cf69c293733c0e4e150/transformed/navigation-fragment-ktx-2.4.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-fragment:2.4.1] /Users/miraclehwan/.gradle/caches/transforms-3/bd819ac9ff81ea1fad04156659907178/transformed/navigation-fragment-2.4.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment-ktx:1.4.1] /Users/miraclehwan/.gradle/caches/transforms-3/d0972bd48db941649c36ba70b20f3da4/transformed/fragment-ktx-1.4.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-ui-ktx:2.4.1] /Users/miraclehwan/.gradle/caches/transforms-3/caa213c9ac43b6ebeed6593562cc3392/transformed/navigation-ui-ktx-2.4.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.4.1] /Users/miraclehwan/.gradle/caches/transforms-3/c8b146424996954e815b313c1962a995/transformed/navigation-runtime-ktx-2.4.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-ui:2.4.1] /Users/miraclehwan/.gradle/caches/transforms-3/43f20bf0dab362fbcca72c328f4036da/transformed/navigation-ui-2.4.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-runtime:2.4.1] /Users/miraclehwan/.gradle/caches/transforms-3/a23004fa0543d2cc896d17b90c294034/transformed/navigation-runtime-2.4.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity-ktx:1.2.3] /Users/miraclehwan/.gradle/caches/transforms-3/2a1478234295d4a00c0ffd811b3f4599/transformed/activity-ktx-1.2.3/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-common-ktx:2.4.1] /Users/miraclehwan/.gradle/caches/transforms-3/41416517a599c7ad8cd25c2231704a6a/transformed/navigation-common-ktx-2.4.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-common:2.4.1] /Users/miraclehwan/.gradle/caches/transforms-3/de3fa906333471298a3ae1657ef277df/transformed/navigation-common-2.4.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.4.1] /Users/miraclehwan/.gradle/caches/transforms-3/04b38c32cc2ec8f8f03e32f71311a84c/transformed/lifecycle-viewmodel-ktx-2.4.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.4.0] /Users/miraclehwan/.gradle/caches/transforms-3/0c2c4b4687d1bdd07ea02cb691bde0c0/transformed/lifecycle-runtime-ktx-2.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] /Users/miraclehwan/.gradle/caches/transforms-3/a8438efa3eee45c9b3b70338296a914b/transformed/slidingpanelayout-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.window:window:1.0.0] /Users/miraclehwan/.gradle/caches/transforms-3/933e1c47c3e019476c98bbe7f252019c/transformed/window-1.0.0/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.4.1] /Users/miraclehwan/.gradle/caches/transforms-3/49568e68cd5007e23e9ace251ed05464/transformed/lifecycle-livedata-ktx-2.4.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.material:material:1.5.0] /Users/miraclehwan/.gradle/caches/transforms-3/14d0640e574de453121ed8dd5e94e28c/transformed/material-1.5.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.3] /Users/miraclehwan/.gradle/caches/transforms-3/3d4c7d21de507e3aca5386a8501ad2aa/transformed/constraintlayout-2.1.3/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.4.1] /Users/miraclehwan/.gradle/caches/transforms-3/c7da449e1abfbefe2731a13054135e2e/transformed/appcompat-1.4.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/miraclehwan/.gradle/caches/transforms-3/6d7ed4e603666e9303f441816e9c1e3d/transformed/viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.4.1] /Users/miraclehwan/.gradle/caches/transforms-3/73b71feb142a25e2607804141efa9de4/transformed/fragment-1.4.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.7.0] /Users/miraclehwan/.gradle/caches/transforms-3/65129eda654c752cc3c105cd0e8c3d24/transformed/core-ktx-1.7.0/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] /Users/miraclehwan/.gradle/caches/transforms-3/5de6422b5292543acca119a915ad60e5/transformed/swiperefreshlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.2.4] /Users/miraclehwan/.gradle/caches/transforms-3/d985ccc7d69f1846595f02b518425c4a/transformed/activity-1.2.4/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.4.1] /Users/miraclehwan/.gradle/caches/transforms-3/ecfc86c2fef805cd54625f757dce2742/transformed/appcompat-resources-1.4.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] /Users/miraclehwan/.gradle/caches/transforms-3/732a6d97b9fe149f6fc849e4f678d5a3/transformed/emoji2-views-helper-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.emoji2:emoji2:1.0.0] /Users/miraclehwan/.gradle/caches/transforms-3/0112e506e9a750e5766b4006913da71c/transformed/emoji2-1.0.0/AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/miraclehwan/.gradle/caches/transforms-3/7c38a2384c6fa3c001c1eaa8b1e6f6d4/transformed/drawerlayout-1.1.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/miraclehwan/.gradle/caches/transforms-3/efc1fa7f37ea4eafccbdf5e878f070ac/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/miraclehwan/.gradle/caches/transforms-3/f4535ddac116b422d5c7a8ffe7173db3/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/miraclehwan/.gradle/caches/transforms-3/7d04602d224102017a541c5bdb6644cd/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/miraclehwan/.gradle/caches/transforms-3/18268e75335a25c7199b5a98692cd1da/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/miraclehwan/.gradle/caches/transforms-3/f662a7e5bc5d293dfb534a6fb073b7c9/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/miraclehwan/.gradle/caches/transforms-3/b0dab4f140f6b8742d04fbe856bcb8cd/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/miraclehwan/.gradle/caches/transforms-3/e8a9960cd58ea946089df97101b6aee2/transformed/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/miraclehwan/.gradle/caches/transforms-3/97e9bf80e032d39b61ad36afe6d3d6a2/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.1.0] /Users/miraclehwan/.gradle/caches/transforms-3/815e8b48098d7a3593397c978a49714c/transformed/customview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.4.1] /Users/miraclehwan/.gradle/caches/transforms-3/979ab391e941a266c686d4380453bd52/transformed/transition-1.4.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.7.0] /Users/miraclehwan/.gradle/caches/transforms-3/c4bcdc93f4e49101b9081deb869fce68/transformed/core-1.7.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/miraclehwan/.gradle/caches/transforms-3/3ef06cfd4a4b9f16aa04d6b3222fcefa/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.databinding:viewbinding:7.3.1] /Users/miraclehwan/.gradle/caches/transforms-3/c00a5fe2d97ac5bde8697e1df85e944c/transformed/viewbinding-7.3.1/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/miraclehwan/.gradle/caches/transforms-3/e3a3cf9e3b16d8e9a9f44e7cbda2c31b/transformed/lifecycle-process-2.4.0/AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.lifecycle:lifecycle-service:2.4.0] /Users/miraclehwan/.gradle/caches/transforms-3/77f3d08ee432f49569558f1a484ca3cd/transformed/lifecycle-service-2.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] /Users/miraclehwan/.gradle/caches/transforms-3/e096e0ae06ddd12b9a677f7b387d747f/transformed/lifecycle-runtime-2.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.4.1] /Users/miraclehwan/.gradle/caches/transforms-3/7d76d098847cdc8ca197974ff1e3456f/transformed/lifecycle-livedata-2.4.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/miraclehwan/.gradle/caches/transforms-3/4cbfc024b90d8922c68373c08c988e80/transformed/lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.4.1] /Users/miraclehwan/.gradle/caches/transforms-3/ed68373863086704835761ca002c5bfd/transformed/lifecycle-viewmodel-2.4.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.4.1] /Users/miraclehwan/.gradle/caches/transforms-3/faa270927716c96923892d97f03d6d25/transformed/lifecycle-livedata-core-ktx-2.4.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.1.0] /Users/miraclehwan/.gradle/caches/transforms-3/502677ff77c16686a16f90236077365f/transformed/savedstate-ktx-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/miraclehwan/.gradle/caches/transforms-3/a4185a3b81bb72134edc8367fa1f914a/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/miraclehwan/.gradle/caches/transforms-3/94cd426ae0d70a0bd33d65859181cff5/transformed/savedstate-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/miraclehwan/.gradle/caches/transforms-3/10cb4721e13be33c5a093e2b709ef56b/transformed/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/miraclehwan/.gradle/caches/transforms-3/048ea58dd60146d4a33efdb5e0291c4f/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.4.1] /Users/miraclehwan/.gradle/caches/transforms-3/aea8db8adb372b3c1eb7c07e29df531c/transformed/lifecycle-livedata-core-2.4.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/miraclehwan/.gradle/caches/transforms-3/92e536644a4c20fef624c7645185a694/transformed/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/miraclehwan/.gradle/caches/transforms-3/42f160e3f4d24bf68554428ad0c6f49b/transformed/startup-runtime-1.0.0/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/miraclehwan/.gradle/caches/transforms-3/9dee15fc7c14c835d1295df1332d9c98/transformed/tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/miraclehwan/.gradle/caches/transforms-3/55cd2c2e13fd1b9141c3529d57e03d39/transformed/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/miraclehwan/.gradle/caches/transforms-3/4aa869f869ed71e169c8d62f098b0f63/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/miraclehwan/.gradle/caches/transforms-3/656754dedf5bf4f9835812df17d5456b/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/miraclehwan/.gradle/caches/transforms-3/437312fe81e28b85d8d77f7fd8cadd6d/transformed/annotation-experimental-1.1.0/AndroidManifest.xml:17:1-24:12
+INJECTED from /Users/miraclehwan/Downloads/bpsdkaall4121 2/bpsdka4121/Samples/Print-SDK-Demo-Android/app/src/main/AndroidManifest.xml:2:1-41:12
+INJECTED from /Users/miraclehwan/Downloads/bpsdkaall4121 2/bpsdka4121/Samples/Print-SDK-Demo-Android/app/src/main/AndroidManifest.xml:2:1-41:12
+INJECTED from /Users/miraclehwan/Downloads/bpsdkaall4121 2/bpsdka4121/Samples/Print-SDK-Demo-Android/app/src/main/AndroidManifest.xml:2:1-41:12
+	package
+		INJECTED from /Users/miraclehwan/Downloads/bpsdkaall4121 2/bpsdka4121/Samples/Print-SDK-Demo-Android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/miraclehwan/Downloads/bpsdkaall4121 2/bpsdka4121/Samples/Print-SDK-Demo-Android/app/src/main/AndroidManifest.xml:2:1-41:12
+		INJECTED from /Users/miraclehwan/Downloads/bpsdkaall4121 2/bpsdka4121/Samples/Print-SDK-Demo-Android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/miraclehwan/Downloads/bpsdkaall4121 2/bpsdka4121/Samples/Print-SDK-Demo-Android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/miraclehwan/Downloads/bpsdkaall4121 2/bpsdka4121/Samples/Print-SDK-Demo-Android/app/src/main/AndroidManifest.xml:2:1-41:12
+		INJECTED from /Users/miraclehwan/Downloads/bpsdkaall4121 2/bpsdka4121/Samples/Print-SDK-Demo-Android/app/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/miraclehwan/Downloads/bpsdkaall4121 2/bpsdka4121/Samples/Print-SDK-Demo-Android/app/src/main/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /Users/miraclehwan/Downloads/bpsdkaall4121 2/bpsdka4121/Samples/Print-SDK-Demo-Android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/miraclehwan/Downloads/bpsdkaall4121 2/bpsdka4121/Samples/Print-SDK-Demo-Android/app/src/main/AndroidManifest.xml:2:1-41:12
+		INJECTED from /Users/miraclehwan/Downloads/bpsdkaall4121 2/bpsdka4121/Samples/Print-SDK-Demo-Android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/miraclehwan/Downloads/bpsdkaall4121 2/bpsdka4121/Samples/Print-SDK-Demo-Android/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/miraclehwan/Downloads/bpsdkaall4121 2/bpsdka4121/Samples/Print-SDK-Demo-Android/app/src/main/AndroidManifest.xml:5:5-79
+	android:name
+		ADDED from /Users/miraclehwan/Downloads/bpsdkaall4121 2/bpsdka4121/Samples/Print-SDK-Demo-Android/app/src/main/AndroidManifest.xml:5:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from /Users/miraclehwan/Downloads/bpsdkaall4121 2/bpsdka4121/Samples/Print-SDK-Demo-Android/app/src/main/AndroidManifest.xml:6:5-76
+	android:name
+		ADDED from /Users/miraclehwan/Downloads/bpsdkaall4121 2/bpsdka4121/Samples/Print-SDK-Demo-Android/app/src/main/AndroidManifest.xml:6:22-73
+uses-permission#android.permission.INTERNET
+ADDED from /Users/miraclehwan/Downloads/bpsdkaall4121 2/bpsdka4121/Samples/Print-SDK-Demo-Android/app/src/main/AndroidManifest.xml:7:5-67
+	android:name
+		ADDED from /Users/miraclehwan/Downloads/bpsdkaall4121 2/bpsdka4121/Samples/Print-SDK-Demo-Android/app/src/main/AndroidManifest.xml:7:22-64
+uses-permission#android.permission.BLUETOOTH
+ADDED from /Users/miraclehwan/Downloads/bpsdkaall4121 2/bpsdka4121/Samples/Print-SDK-Demo-Android/app/src/main/AndroidManifest.xml:8:5-68
+	android:name
+		ADDED from /Users/miraclehwan/Downloads/bpsdkaall4121 2/bpsdka4121/Samples/Print-SDK-Demo-Android/app/src/main/AndroidManifest.xml:8:22-65
+uses-permission#android.permission.BLUETOOTH_CONNECT
+ADDED from /Users/miraclehwan/Downloads/bpsdkaall4121 2/bpsdka4121/Samples/Print-SDK-Demo-Android/app/src/main/AndroidManifest.xml:9:5-76
+	android:name
+		ADDED from /Users/miraclehwan/Downloads/bpsdkaall4121 2/bpsdka4121/Samples/Print-SDK-Demo-Android/app/src/main/AndroidManifest.xml:9:22-73
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from /Users/miraclehwan/Downloads/bpsdkaall4121 2/bpsdka4121/Samples/Print-SDK-Demo-Android/app/src/main/AndroidManifest.xml:11:5-74
+	android:name
+		ADDED from /Users/miraclehwan/Downloads/bpsdkaall4121 2/bpsdka4121/Samples/Print-SDK-Demo-Android/app/src/main/AndroidManifest.xml:11:22-71
+uses-permission#android.permission.BLUETOOTH_SCAN
+ADDED from /Users/miraclehwan/Downloads/bpsdkaall4121 2/bpsdka4121/Samples/Print-SDK-Demo-Android/app/src/main/AndroidManifest.xml:13:5-16:31
+	android:usesPermissionFlags
+		ADDED from /Users/miraclehwan/Downloads/bpsdkaall4121 2/bpsdka4121/Samples/Print-SDK-Demo-Android/app/src/main/AndroidManifest.xml:15:9-55
+	tools:targetApi
+		ADDED from /Users/miraclehwan/Downloads/bpsdkaall4121 2/bpsdka4121/Samples/Print-SDK-Demo-Android/app/src/main/AndroidManifest.xml:16:9-28
+	android:name
+		ADDED from /Users/miraclehwan/Downloads/bpsdkaall4121 2/bpsdka4121/Samples/Print-SDK-Demo-Android/app/src/main/AndroidManifest.xml:14:9-57
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /Users/miraclehwan/Downloads/bpsdkaall4121 2/bpsdka4121/Samples/Print-SDK-Demo-Android/app/src/main/AndroidManifest.xml:18:5-81
+	android:name
+		ADDED from /Users/miraclehwan/Downloads/bpsdkaall4121 2/bpsdka4121/Samples/Print-SDK-Demo-Android/app/src/main/AndroidManifest.xml:18:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/miraclehwan/Downloads/bpsdkaall4121 2/bpsdka4121/Samples/Print-SDK-Demo-Android/app/src/main/AndroidManifest.xml:19:5-79
+	android:name
+		ADDED from /Users/miraclehwan/Downloads/bpsdkaall4121 2/bpsdka4121/Samples/Print-SDK-Demo-Android/app/src/main/AndroidManifest.xml:19:22-76
+application
+ADDED from /Users/miraclehwan/Downloads/bpsdkaall4121 2/bpsdka4121/Samples/Print-SDK-Demo-Android/app/src/main/AndroidManifest.xml:21:5-39:19
+MERGED from [androidx.window:window:1.0.0] /Users/miraclehwan/.gradle/caches/transforms-3/933e1c47c3e019476c98bbe7f252019c/transformed/window-1.0.0/AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.window:window:1.0.0] /Users/miraclehwan/.gradle/caches/transforms-3/933e1c47c3e019476c98bbe7f252019c/transformed/window-1.0.0/AndroidManifest.xml:24:5-31:19
+MERGED from [com.google.android.material:material:1.5.0] /Users/miraclehwan/.gradle/caches/transforms-3/14d0640e574de453121ed8dd5e94e28c/transformed/material-1.5.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.5.0] /Users/miraclehwan/.gradle/caches/transforms-3/14d0640e574de453121ed8dd5e94e28c/transformed/material-1.5.0/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.3] /Users/miraclehwan/.gradle/caches/transforms-3/3d4c7d21de507e3aca5386a8501ad2aa/transformed/constraintlayout-2.1.3/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.3] /Users/miraclehwan/.gradle/caches/transforms-3/3d4c7d21de507e3aca5386a8501ad2aa/transformed/constraintlayout-2.1.3/AndroidManifest.xml:9:5-20
+MERGED from [androidx.emoji2:emoji2:1.0.0] /Users/miraclehwan/.gradle/caches/transforms-3/0112e506e9a750e5766b4006913da71c/transformed/emoji2-1.0.0/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.emoji2:emoji2:1.0.0] /Users/miraclehwan/.gradle/caches/transforms-3/0112e506e9a750e5766b4006913da71c/transformed/emoji2-1.0.0/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.core:core:1.7.0] /Users/miraclehwan/.gradle/caches/transforms-3/c4bcdc93f4e49101b9081deb869fce68/transformed/core-1.7.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.7.0] /Users/miraclehwan/.gradle/caches/transforms-3/c4bcdc93f4e49101b9081deb869fce68/transformed/core-1.7.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/miraclehwan/.gradle/caches/transforms-3/3ef06cfd4a4b9f16aa04d6b3222fcefa/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/miraclehwan/.gradle/caches/transforms-3/3ef06cfd4a4b9f16aa04d6b3222fcefa/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/miraclehwan/.gradle/caches/transforms-3/e3a3cf9e3b16d8e9a9f44e7cbda2c31b/transformed/lifecycle-process-2.4.0/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/miraclehwan/.gradle/caches/transforms-3/e3a3cf9e3b16d8e9a9f44e7cbda2c31b/transformed/lifecycle-process-2.4.0/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/miraclehwan/.gradle/caches/transforms-3/42f160e3f4d24bf68554428ad0c6f49b/transformed/startup-runtime-1.0.0/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/miraclehwan/.gradle/caches/transforms-3/42f160e3f4d24bf68554428ad0c6f49b/transformed/startup-runtime-1.0.0/AndroidManifest.xml:25:5-31:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.7.0] /Users/miraclehwan/.gradle/caches/transforms-3/c4bcdc93f4e49101b9081deb869fce68/transformed/core-1.7.0/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /Users/miraclehwan/Downloads/bpsdkaall4121 2/bpsdka4121/Samples/Print-SDK-Demo-Android/app/src/main/AndroidManifest.xml:27:9-35
+	android:label
+		ADDED from /Users/miraclehwan/Downloads/bpsdkaall4121 2/bpsdka4121/Samples/Print-SDK-Demo-Android/app/src/main/AndroidManifest.xml:25:9-41
+	android:roundIcon
+		ADDED from /Users/miraclehwan/Downloads/bpsdkaall4121 2/bpsdka4121/Samples/Print-SDK-Demo-Android/app/src/main/AndroidManifest.xml:26:9-54
+	android:icon
+		ADDED from /Users/miraclehwan/Downloads/bpsdkaall4121 2/bpsdka4121/Samples/Print-SDK-Demo-Android/app/src/main/AndroidManifest.xml:24:9-43
+	android:allowBackup
+		ADDED from /Users/miraclehwan/Downloads/bpsdkaall4121 2/bpsdka4121/Samples/Print-SDK-Demo-Android/app/src/main/AndroidManifest.xml:23:9-35
+	android:theme
+		ADDED from /Users/miraclehwan/Downloads/bpsdkaall4121 2/bpsdka4121/Samples/Print-SDK-Demo-Android/app/src/main/AndroidManifest.xml:28:9-57
+	android:name
+		ADDED from /Users/miraclehwan/Downloads/bpsdkaall4121 2/bpsdka4121/Samples/Print-SDK-Demo-Android/app/src/main/AndroidManifest.xml:22:9-37
+activity#com.brother.ptouch.sdk.printdemo.ui.MainActivity
+ADDED from /Users/miraclehwan/Downloads/bpsdkaall4121 2/bpsdka4121/Samples/Print-SDK-Demo-Android/app/src/main/AndroidManifest.xml:29:9-38:20
+	android:screenOrientation
+		ADDED from /Users/miraclehwan/Downloads/bpsdkaall4121 2/bpsdka4121/Samples/Print-SDK-Demo-Android/app/src/main/AndroidManifest.xml:32:13-49
+	android:exported
+		ADDED from /Users/miraclehwan/Downloads/bpsdkaall4121 2/bpsdka4121/Samples/Print-SDK-Demo-Android/app/src/main/AndroidManifest.xml:31:13-36
+	tools:ignore
+		ADDED from /Users/miraclehwan/Downloads/bpsdkaall4121 2/bpsdka4121/Samples/Print-SDK-Demo-Android/app/src/main/AndroidManifest.xml:33:13-53
+	android:name
+		ADDED from /Users/miraclehwan/Downloads/bpsdkaall4121 2/bpsdka4121/Samples/Print-SDK-Demo-Android/app/src/main/AndroidManifest.xml:30:13-44
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/miraclehwan/Downloads/bpsdkaall4121 2/bpsdka4121/Samples/Print-SDK-Demo-Android/app/src/main/AndroidManifest.xml:34:13-37:29
+action#android.intent.action.MAIN
+ADDED from /Users/miraclehwan/Downloads/bpsdkaall4121 2/bpsdka4121/Samples/Print-SDK-Demo-Android/app/src/main/AndroidManifest.xml:35:17-69
+	android:name
+		ADDED from /Users/miraclehwan/Downloads/bpsdkaall4121 2/bpsdka4121/Samples/Print-SDK-Demo-Android/app/src/main/AndroidManifest.xml:35:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/miraclehwan/Downloads/bpsdkaall4121 2/bpsdka4121/Samples/Print-SDK-Demo-Android/app/src/main/AndroidManifest.xml:36:17-77
+	android:name
+		ADDED from /Users/miraclehwan/Downloads/bpsdkaall4121 2/bpsdka4121/Samples/Print-SDK-Demo-Android/app/src/main/AndroidManifest.xml:36:27-74
+uses-sdk
+INJECTED from /Users/miraclehwan/Downloads/bpsdkaall4121 2/bpsdka4121/Samples/Print-SDK-Demo-Android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/miraclehwan/Downloads/bpsdkaall4121 2/bpsdka4121/Samples/Print-SDK-Demo-Android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/miraclehwan/Downloads/bpsdkaall4121 2/bpsdka4121/Samples/Print-SDK-Demo-Android/app/src/main/AndroidManifest.xml
+MERGED from [BrotherPrintLibrary.aar] /Users/miraclehwan/.gradle/caches/transforms-3/3098f64f7d01c438ff108e5252a64fcf/transformed/BrotherPrintLibrary/AndroidManifest.xml:5:5-7:41
+MERGED from [BrotherPrintLibrary.aar] /Users/miraclehwan/.gradle/caches/transforms-3/3098f64f7d01c438ff108e5252a64fcf/transformed/BrotherPrintLibrary/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.databinding:databinding-adapters:7.3.1] /Users/miraclehwan/.gradle/caches/transforms-3/a0aca002b278312288e5a454417e2cd5/transformed/databinding-adapters-7.3.1/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.databinding:databinding-adapters:7.3.1] /Users/miraclehwan/.gradle/caches/transforms-3/a0aca002b278312288e5a454417e2cd5/transformed/databinding-adapters-7.3.1/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.databinding:databinding-ktx:7.3.1] /Users/miraclehwan/.gradle/caches/transforms-3/e1922c384ccdc7e43ddd1b2f567258c8/transformed/databinding-ktx-7.3.1/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.databinding:databinding-ktx:7.3.1] /Users/miraclehwan/.gradle/caches/transforms-3/e1922c384ccdc7e43ddd1b2f567258c8/transformed/databinding-ktx-7.3.1/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.databinding:databinding-runtime:7.3.1] /Users/miraclehwan/.gradle/caches/transforms-3/0df34f840a53b1811dc1c74c12a315cc/transformed/databinding-runtime-7.3.1/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.databinding:databinding-runtime:7.3.1] /Users/miraclehwan/.gradle/caches/transforms-3/0df34f840a53b1811dc1c74c12a315cc/transformed/databinding-runtime-7.3.1/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.4.1] /Users/miraclehwan/.gradle/caches/transforms-3/c641f767f07e4cf69c293733c0e4e150/transformed/navigation-fragment-ktx-2.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.4.1] /Users/miraclehwan/.gradle/caches/transforms-3/c641f767f07e4cf69c293733c0e4e150/transformed/navigation-fragment-ktx-2.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment:2.4.1] /Users/miraclehwan/.gradle/caches/transforms-3/bd819ac9ff81ea1fad04156659907178/transformed/navigation-fragment-2.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment:2.4.1] /Users/miraclehwan/.gradle/caches/transforms-3/bd819ac9ff81ea1fad04156659907178/transformed/navigation-fragment-2.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.4.1] /Users/miraclehwan/.gradle/caches/transforms-3/d0972bd48db941649c36ba70b20f3da4/transformed/fragment-ktx-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.4.1] /Users/miraclehwan/.gradle/caches/transforms-3/d0972bd48db941649c36ba70b20f3da4/transformed/fragment-ktx-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui-ktx:2.4.1] /Users/miraclehwan/.gradle/caches/transforms-3/caa213c9ac43b6ebeed6593562cc3392/transformed/navigation-ui-ktx-2.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui-ktx:2.4.1] /Users/miraclehwan/.gradle/caches/transforms-3/caa213c9ac43b6ebeed6593562cc3392/transformed/navigation-ui-ktx-2.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.4.1] /Users/miraclehwan/.gradle/caches/transforms-3/c8b146424996954e815b313c1962a995/transformed/navigation-runtime-ktx-2.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.4.1] /Users/miraclehwan/.gradle/caches/transforms-3/c8b146424996954e815b313c1962a995/transformed/navigation-runtime-ktx-2.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui:2.4.1] /Users/miraclehwan/.gradle/caches/transforms-3/43f20bf0dab362fbcca72c328f4036da/transformed/navigation-ui-2.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui:2.4.1] /Users/miraclehwan/.gradle/caches/transforms-3/43f20bf0dab362fbcca72c328f4036da/transformed/navigation-ui-2.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.4.1] /Users/miraclehwan/.gradle/caches/transforms-3/a23004fa0543d2cc896d17b90c294034/transformed/navigation-runtime-2.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.4.1] /Users/miraclehwan/.gradle/caches/transforms-3/a23004fa0543d2cc896d17b90c294034/transformed/navigation-runtime-2.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.2.3] /Users/miraclehwan/.gradle/caches/transforms-3/2a1478234295d4a00c0ffd811b3f4599/transformed/activity-ktx-1.2.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.2.3] /Users/miraclehwan/.gradle/caches/transforms-3/2a1478234295d4a00c0ffd811b3f4599/transformed/activity-ktx-1.2.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common-ktx:2.4.1] /Users/miraclehwan/.gradle/caches/transforms-3/41416517a599c7ad8cd25c2231704a6a/transformed/navigation-common-ktx-2.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common-ktx:2.4.1] /Users/miraclehwan/.gradle/caches/transforms-3/41416517a599c7ad8cd25c2231704a6a/transformed/navigation-common-ktx-2.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.4.1] /Users/miraclehwan/.gradle/caches/transforms-3/de3fa906333471298a3ae1657ef277df/transformed/navigation-common-2.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.4.1] /Users/miraclehwan/.gradle/caches/transforms-3/de3fa906333471298a3ae1657ef277df/transformed/navigation-common-2.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.4.1] /Users/miraclehwan/.gradle/caches/transforms-3/04b38c32cc2ec8f8f03e32f71311a84c/transformed/lifecycle-viewmodel-ktx-2.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.4.1] /Users/miraclehwan/.gradle/caches/transforms-3/04b38c32cc2ec8f8f03e32f71311a84c/transformed/lifecycle-viewmodel-ktx-2.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.4.0] /Users/miraclehwan/.gradle/caches/transforms-3/0c2c4b4687d1bdd07ea02cb691bde0c0/transformed/lifecycle-runtime-ktx-2.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.4.0] /Users/miraclehwan/.gradle/caches/transforms-3/0c2c4b4687d1bdd07ea02cb691bde0c0/transformed/lifecycle-runtime-ktx-2.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] /Users/miraclehwan/.gradle/caches/transforms-3/a8438efa3eee45c9b3b70338296a914b/transformed/slidingpanelayout-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] /Users/miraclehwan/.gradle/caches/transforms-3/a8438efa3eee45c9b3b70338296a914b/transformed/slidingpanelayout-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0] /Users/miraclehwan/.gradle/caches/transforms-3/933e1c47c3e019476c98bbe7f252019c/transformed/window-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0] /Users/miraclehwan/.gradle/caches/transforms-3/933e1c47c3e019476c98bbe7f252019c/transformed/window-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.4.1] /Users/miraclehwan/.gradle/caches/transforms-3/49568e68cd5007e23e9ace251ed05464/transformed/lifecycle-livedata-ktx-2.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.4.1] /Users/miraclehwan/.gradle/caches/transforms-3/49568e68cd5007e23e9ace251ed05464/transformed/lifecycle-livedata-ktx-2.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.5.0] /Users/miraclehwan/.gradle/caches/transforms-3/14d0640e574de453121ed8dd5e94e28c/transformed/material-1.5.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.5.0] /Users/miraclehwan/.gradle/caches/transforms-3/14d0640e574de453121ed8dd5e94e28c/transformed/material-1.5.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.3] /Users/miraclehwan/.gradle/caches/transforms-3/3d4c7d21de507e3aca5386a8501ad2aa/transformed/constraintlayout-2.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.3] /Users/miraclehwan/.gradle/caches/transforms-3/3d4c7d21de507e3aca5386a8501ad2aa/transformed/constraintlayout-2.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.4.1] /Users/miraclehwan/.gradle/caches/transforms-3/c7da449e1abfbefe2731a13054135e2e/transformed/appcompat-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.4.1] /Users/miraclehwan/.gradle/caches/transforms-3/c7da449e1abfbefe2731a13054135e2e/transformed/appcompat-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/miraclehwan/.gradle/caches/transforms-3/6d7ed4e603666e9303f441816e9c1e3d/transformed/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/miraclehwan/.gradle/caches/transforms-3/6d7ed4e603666e9303f441816e9c1e3d/transformed/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.4.1] /Users/miraclehwan/.gradle/caches/transforms-3/73b71feb142a25e2607804141efa9de4/transformed/fragment-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.4.1] /Users/miraclehwan/.gradle/caches/transforms-3/73b71feb142a25e2607804141efa9de4/transformed/fragment-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.7.0] /Users/miraclehwan/.gradle/caches/transforms-3/65129eda654c752cc3c105cd0e8c3d24/transformed/core-ktx-1.7.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.7.0] /Users/miraclehwan/.gradle/caches/transforms-3/65129eda654c752cc3c105cd0e8c3d24/transformed/core-ktx-1.7.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] /Users/miraclehwan/.gradle/caches/transforms-3/5de6422b5292543acca119a915ad60e5/transformed/swiperefreshlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] /Users/miraclehwan/.gradle/caches/transforms-3/5de6422b5292543acca119a915ad60e5/transformed/swiperefreshlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] /Users/miraclehwan/.gradle/caches/transforms-3/d985ccc7d69f1846595f02b518425c4a/transformed/activity-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] /Users/miraclehwan/.gradle/caches/transforms-3/d985ccc7d69f1846595f02b518425c4a/transformed/activity-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.4.1] /Users/miraclehwan/.gradle/caches/transforms-3/ecfc86c2fef805cd54625f757dce2742/transformed/appcompat-resources-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.4.1] /Users/miraclehwan/.gradle/caches/transforms-3/ecfc86c2fef805cd54625f757dce2742/transformed/appcompat-resources-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] /Users/miraclehwan/.gradle/caches/transforms-3/732a6d97b9fe149f6fc849e4f678d5a3/transformed/emoji2-views-helper-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] /Users/miraclehwan/.gradle/caches/transforms-3/732a6d97b9fe149f6fc849e4f678d5a3/transformed/emoji2-views-helper-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2:1.0.0] /Users/miraclehwan/.gradle/caches/transforms-3/0112e506e9a750e5766b4006913da71c/transformed/emoji2-1.0.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.emoji2:emoji2:1.0.0] /Users/miraclehwan/.gradle/caches/transforms-3/0112e506e9a750e5766b4006913da71c/transformed/emoji2-1.0.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/miraclehwan/.gradle/caches/transforms-3/7c38a2384c6fa3c001c1eaa8b1e6f6d4/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/miraclehwan/.gradle/caches/transforms-3/7c38a2384c6fa3c001c1eaa8b1e6f6d4/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/miraclehwan/.gradle/caches/transforms-3/efc1fa7f37ea4eafccbdf5e878f070ac/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/miraclehwan/.gradle/caches/transforms-3/efc1fa7f37ea4eafccbdf5e878f070ac/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/miraclehwan/.gradle/caches/transforms-3/f4535ddac116b422d5c7a8ffe7173db3/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/miraclehwan/.gradle/caches/transforms-3/f4535ddac116b422d5c7a8ffe7173db3/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/miraclehwan/.gradle/caches/transforms-3/7d04602d224102017a541c5bdb6644cd/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/miraclehwan/.gradle/caches/transforms-3/7d04602d224102017a541c5bdb6644cd/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/miraclehwan/.gradle/caches/transforms-3/18268e75335a25c7199b5a98692cd1da/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/miraclehwan/.gradle/caches/transforms-3/18268e75335a25c7199b5a98692cd1da/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/miraclehwan/.gradle/caches/transforms-3/f662a7e5bc5d293dfb534a6fb073b7c9/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/miraclehwan/.gradle/caches/transforms-3/f662a7e5bc5d293dfb534a6fb073b7c9/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/miraclehwan/.gradle/caches/transforms-3/b0dab4f140f6b8742d04fbe856bcb8cd/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/miraclehwan/.gradle/caches/transforms-3/b0dab4f140f6b8742d04fbe856bcb8cd/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/miraclehwan/.gradle/caches/transforms-3/e8a9960cd58ea946089df97101b6aee2/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/miraclehwan/.gradle/caches/transforms-3/e8a9960cd58ea946089df97101b6aee2/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/miraclehwan/.gradle/caches/transforms-3/97e9bf80e032d39b61ad36afe6d3d6a2/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/miraclehwan/.gradle/caches/transforms-3/97e9bf80e032d39b61ad36afe6d3d6a2/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.1.0] /Users/miraclehwan/.gradle/caches/transforms-3/815e8b48098d7a3593397c978a49714c/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] /Users/miraclehwan/.gradle/caches/transforms-3/815e8b48098d7a3593397c978a49714c/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.4.1] /Users/miraclehwan/.gradle/caches/transforms-3/979ab391e941a266c686d4380453bd52/transformed/transition-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.4.1] /Users/miraclehwan/.gradle/caches/transforms-3/979ab391e941a266c686d4380453bd52/transformed/transition-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.7.0] /Users/miraclehwan/.gradle/caches/transforms-3/c4bcdc93f4e49101b9081deb869fce68/transformed/core-1.7.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.7.0] /Users/miraclehwan/.gradle/caches/transforms-3/c4bcdc93f4e49101b9081deb869fce68/transformed/core-1.7.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/miraclehwan/.gradle/caches/transforms-3/3ef06cfd4a4b9f16aa04d6b3222fcefa/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/miraclehwan/.gradle/caches/transforms-3/3ef06cfd4a4b9f16aa04d6b3222fcefa/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.databinding:viewbinding:7.3.1] /Users/miraclehwan/.gradle/caches/transforms-3/c00a5fe2d97ac5bde8697e1df85e944c/transformed/viewbinding-7.3.1/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.databinding:viewbinding:7.3.1] /Users/miraclehwan/.gradle/caches/transforms-3/c00a5fe2d97ac5bde8697e1df85e944c/transformed/viewbinding-7.3.1/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/miraclehwan/.gradle/caches/transforms-3/e3a3cf9e3b16d8e9a9f44e7cbda2c31b/transformed/lifecycle-process-2.4.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/miraclehwan/.gradle/caches/transforms-3/e3a3cf9e3b16d8e9a9f44e7cbda2c31b/transformed/lifecycle-process-2.4.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-service:2.4.0] /Users/miraclehwan/.gradle/caches/transforms-3/77f3d08ee432f49569558f1a484ca3cd/transformed/lifecycle-service-2.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-service:2.4.0] /Users/miraclehwan/.gradle/caches/transforms-3/77f3d08ee432f49569558f1a484ca3cd/transformed/lifecycle-service-2.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] /Users/miraclehwan/.gradle/caches/transforms-3/e096e0ae06ddd12b9a677f7b387d747f/transformed/lifecycle-runtime-2.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] /Users/miraclehwan/.gradle/caches/transforms-3/e096e0ae06ddd12b9a677f7b387d747f/transformed/lifecycle-runtime-2.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.4.1] /Users/miraclehwan/.gradle/caches/transforms-3/7d76d098847cdc8ca197974ff1e3456f/transformed/lifecycle-livedata-2.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.4.1] /Users/miraclehwan/.gradle/caches/transforms-3/7d76d098847cdc8ca197974ff1e3456f/transformed/lifecycle-livedata-2.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/miraclehwan/.gradle/caches/transforms-3/4cbfc024b90d8922c68373c08c988e80/transformed/lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/miraclehwan/.gradle/caches/transforms-3/4cbfc024b90d8922c68373c08c988e80/transformed/lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.4.1] /Users/miraclehwan/.gradle/caches/transforms-3/ed68373863086704835761ca002c5bfd/transformed/lifecycle-viewmodel-2.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.4.1] /Users/miraclehwan/.gradle/caches/transforms-3/ed68373863086704835761ca002c5bfd/transformed/lifecycle-viewmodel-2.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.4.1] /Users/miraclehwan/.gradle/caches/transforms-3/faa270927716c96923892d97f03d6d25/transformed/lifecycle-livedata-core-ktx-2.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.4.1] /Users/miraclehwan/.gradle/caches/transforms-3/faa270927716c96923892d97f03d6d25/transformed/lifecycle-livedata-core-ktx-2.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate-ktx:1.1.0] /Users/miraclehwan/.gradle/caches/transforms-3/502677ff77c16686a16f90236077365f/transformed/savedstate-ktx-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate-ktx:1.1.0] /Users/miraclehwan/.gradle/caches/transforms-3/502677ff77c16686a16f90236077365f/transformed/savedstate-ktx-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/miraclehwan/.gradle/caches/transforms-3/a4185a3b81bb72134edc8367fa1f914a/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/miraclehwan/.gradle/caches/transforms-3/a4185a3b81bb72134edc8367fa1f914a/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/miraclehwan/.gradle/caches/transforms-3/94cd426ae0d70a0bd33d65859181cff5/transformed/savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/miraclehwan/.gradle/caches/transforms-3/94cd426ae0d70a0bd33d65859181cff5/transformed/savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/miraclehwan/.gradle/caches/transforms-3/10cb4721e13be33c5a093e2b709ef56b/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/miraclehwan/.gradle/caches/transforms-3/10cb4721e13be33c5a093e2b709ef56b/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/miraclehwan/.gradle/caches/transforms-3/048ea58dd60146d4a33efdb5e0291c4f/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/miraclehwan/.gradle/caches/transforms-3/048ea58dd60146d4a33efdb5e0291c4f/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.4.1] /Users/miraclehwan/.gradle/caches/transforms-3/aea8db8adb372b3c1eb7c07e29df531c/transformed/lifecycle-livedata-core-2.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.4.1] /Users/miraclehwan/.gradle/caches/transforms-3/aea8db8adb372b3c1eb7c07e29df531c/transformed/lifecycle-livedata-core-2.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/miraclehwan/.gradle/caches/transforms-3/92e536644a4c20fef624c7645185a694/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/miraclehwan/.gradle/caches/transforms-3/92e536644a4c20fef624c7645185a694/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/miraclehwan/.gradle/caches/transforms-3/42f160e3f4d24bf68554428ad0c6f49b/transformed/startup-runtime-1.0.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/miraclehwan/.gradle/caches/transforms-3/42f160e3f4d24bf68554428ad0c6f49b/transformed/startup-runtime-1.0.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/miraclehwan/.gradle/caches/transforms-3/9dee15fc7c14c835d1295df1332d9c98/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/miraclehwan/.gradle/caches/transforms-3/9dee15fc7c14c835d1295df1332d9c98/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/miraclehwan/.gradle/caches/transforms-3/55cd2c2e13fd1b9141c3529d57e03d39/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/miraclehwan/.gradle/caches/transforms-3/55cd2c2e13fd1b9141c3529d57e03d39/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/miraclehwan/.gradle/caches/transforms-3/4aa869f869ed71e169c8d62f098b0f63/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/miraclehwan/.gradle/caches/transforms-3/4aa869f869ed71e169c8d62f098b0f63/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/miraclehwan/.gradle/caches/transforms-3/656754dedf5bf4f9835812df17d5456b/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/miraclehwan/.gradle/caches/transforms-3/656754dedf5bf4f9835812df17d5456b/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/miraclehwan/.gradle/caches/transforms-3/437312fe81e28b85d8d77f7fd8cadd6d/transformed/annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/miraclehwan/.gradle/caches/transforms-3/437312fe81e28b85d8d77f7fd8cadd6d/transformed/annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/miraclehwan/Downloads/bpsdkaall4121 2/bpsdka4121/Samples/Print-SDK-Demo-Android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/miraclehwan/Downloads/bpsdkaall4121 2/bpsdka4121/Samples/Print-SDK-Demo-Android/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/miraclehwan/Downloads/bpsdkaall4121 2/bpsdka4121/Samples/Print-SDK-Demo-Android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/miraclehwan/Downloads/bpsdkaall4121 2/bpsdka4121/Samples/Print-SDK-Demo-Android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/miraclehwan/Downloads/bpsdkaall4121 2/bpsdka4121/Samples/Print-SDK-Demo-Android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/miraclehwan/Downloads/bpsdkaall4121 2/bpsdka4121/Samples/Print-SDK-Demo-Android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/miraclehwan/Downloads/bpsdkaall4121 2/bpsdka4121/Samples/Print-SDK-Demo-Android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/miraclehwan/Downloads/bpsdkaall4121 2/bpsdka4121/Samples/Print-SDK-Demo-Android/app/src/main/AndroidManifest.xml
+uses-library#androidx.window.extensions
+ADDED from [androidx.window:window:1.0.0] /Users/miraclehwan/.gradle/caches/transforms-3/933e1c47c3e019476c98bbe7f252019c/transformed/window-1.0.0/AndroidManifest.xml:25:9-27:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0] /Users/miraclehwan/.gradle/caches/transforms-3/933e1c47c3e019476c98bbe7f252019c/transformed/window-1.0.0/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0] /Users/miraclehwan/.gradle/caches/transforms-3/933e1c47c3e019476c98bbe7f252019c/transformed/window-1.0.0/AndroidManifest.xml:26:13-54
+uses-library#androidx.window.sidecar
+ADDED from [androidx.window:window:1.0.0] /Users/miraclehwan/.gradle/caches/transforms-3/933e1c47c3e019476c98bbe7f252019c/transformed/window-1.0.0/AndroidManifest.xml:28:9-30:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0] /Users/miraclehwan/.gradle/caches/transforms-3/933e1c47c3e019476c98bbe7f252019c/transformed/window-1.0.0/AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0] /Users/miraclehwan/.gradle/caches/transforms-3/933e1c47c3e019476c98bbe7f252019c/transformed/window-1.0.0/AndroidManifest.xml:29:13-51
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/miraclehwan/.gradle/caches/transforms-3/0112e506e9a750e5766b4006913da71c/transformed/emoji2-1.0.0/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/miraclehwan/.gradle/caches/transforms-3/e3a3cf9e3b16d8e9a9f44e7cbda2c31b/transformed/lifecycle-process-2.4.0/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/miraclehwan/.gradle/caches/transforms-3/e3a3cf9e3b16d8e9a9f44e7cbda2c31b/transformed/lifecycle-process-2.4.0/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/miraclehwan/.gradle/caches/transforms-3/42f160e3f4d24bf68554428ad0c6f49b/transformed/startup-runtime-1.0.0/AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/miraclehwan/.gradle/caches/transforms-3/42f160e3f4d24bf68554428ad0c6f49b/transformed/startup-runtime-1.0.0/AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/miraclehwan/.gradle/caches/transforms-3/0112e506e9a750e5766b4006913da71c/transformed/emoji2-1.0.0/AndroidManifest.xml:30:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/miraclehwan/.gradle/caches/transforms-3/0112e506e9a750e5766b4006913da71c/transformed/emoji2-1.0.0/AndroidManifest.xml:28:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/miraclehwan/.gradle/caches/transforms-3/0112e506e9a750e5766b4006913da71c/transformed/emoji2-1.0.0/AndroidManifest.xml:29:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/miraclehwan/.gradle/caches/transforms-3/0112e506e9a750e5766b4006913da71c/transformed/emoji2-1.0.0/AndroidManifest.xml:27:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/miraclehwan/.gradle/caches/transforms-3/0112e506e9a750e5766b4006913da71c/transformed/emoji2-1.0.0/AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/miraclehwan/.gradle/caches/transforms-3/0112e506e9a750e5766b4006913da71c/transformed/emoji2-1.0.0/AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/miraclehwan/.gradle/caches/transforms-3/0112e506e9a750e5766b4006913da71c/transformed/emoji2-1.0.0/AndroidManifest.xml:32:17-75
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/miraclehwan/.gradle/caches/transforms-3/e3a3cf9e3b16d8e9a9f44e7cbda2c31b/transformed/lifecycle-process-2.4.0/AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/miraclehwan/.gradle/caches/transforms-3/e3a3cf9e3b16d8e9a9f44e7cbda2c31b/transformed/lifecycle-process-2.4.0/AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/miraclehwan/.gradle/caches/transforms-3/e3a3cf9e3b16d8e9a9f44e7cbda2c31b/transformed/lifecycle-process-2.4.0/AndroidManifest.xml:32:17-78
